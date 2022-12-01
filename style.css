@@ -1,0 +1,10 @@
+canvas {
+  padding: 15px;
+}
+.chartWrapper {
+  width: 180vh;
+}
+header {
+  font-size: 30pt;
+  text-align: center;
+}
